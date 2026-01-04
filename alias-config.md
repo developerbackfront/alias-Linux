@@ -23,6 +23,7 @@
 <p>alias clearswap='sudo swapoff -a && sudo swapon -a'</p>
 <p>alias timestamp='date +%Y-%m-%dT%H-%M-%S'</p>
 
+<p></p>
 
 > [!IMPORTANT]
 <p><i>Alias para otimizar trabalhos em comandos Linux</i></p>
