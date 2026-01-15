@@ -1,6 +1,7 @@
 
 ### Administração (sistemas)
 
+<br></br>
 <p><i>Alias para otimizar trabalhos em comandos Linux</i></p>
 <p>Criar Alias no arquivo : $ vim ~/.bashrc (atualizar aquivo após alteração com source + contexto)</p>
 <br></br>
@@ -10,7 +11,8 @@
 <p>alias l='ls -CF'</p>
 <p>alias copiar='cp'</p>
 <p>alias deletar-pasta='rm -i'</p>
-<p>alias atualizar-sistemas='sudo apt-get update -y && apt-get upgrade -y'</p>
+<p>alias atualizar-sistemas='sudo apt-get update -y && apt-get upgrade -y'</p> (para Ubuntu)
+<p>alias atualizar-sistemas='sudo dnf update -y && apt-get upgrade -y'</p> (para Oracle)
 <p>alias descricao-command='command'</p>
 <p>alias cls='clear'</p>
 

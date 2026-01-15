@@ -1,2 +1,3 @@
 # Alias-Linux
-Dicas de alias para comandos no Linux
+
+Criação de alias para otimizar comandos no Linux
