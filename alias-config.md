@@ -11,8 +11,8 @@
 <p>alias l='ls -CF'</p>
 <p>alias copiar='cp'</p>
 <p>alias deletar-pasta='rm -i'</p>
-<p>alias atualizar-sistemas='sudo apt-get update -y && apt-get upgrade -y'</p> (para Ubuntu)
-<p>alias atualizar-sistemas='sudo dnf update -y && apt-get upgrade -y'</p> (para Oracle)
+<p>alias atualizar-sistemas='sudo apt-get update -y && apt-get upgrade -y' (para Ubuntu) </p>
+<p>alias atualizar-sistemas='sudo dnf update -y && apt-get upgrade -y'(para Oracle)</p> 
 <p>alias descricao-command='command'</p>
 <p>alias cls='clear'</p>
 
